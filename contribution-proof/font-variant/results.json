@@ -1,0 +1,30 @@
+{
+  "before": {
+    "stage": "before",
+    "pillow": "13.0.0.dev0",
+    "freetype": "2.13.2",
+    "raqm": "0.10.1",
+    "original_engine": "RAQM",
+    "requested_engine": "BASIC",
+    "actual_engine": "RAQM",
+    "text": "AVATAR office",
+    "actual_advance_px": 368.28125,
+    "reference_advance_px": 385.0,
+    "matches_reference_pixels": false,
+    "imagefont_source_sha256": "f7c0e7cd8853695de66deacd593f92abb3384614f5488523918715a3f757c218"
+  },
+  "after": {
+    "stage": "after",
+    "pillow": "13.0.0.dev0",
+    "freetype": "2.13.2",
+    "raqm": "0.10.1",
+    "original_engine": "RAQM",
+    "requested_engine": "BASIC",
+    "actual_engine": "BASIC",
+    "text": "AVATAR office",
+    "actual_advance_px": 385.0,
+    "reference_advance_px": 385.0,
+    "matches_reference_pixels": true,
+    "imagefont_source_sha256": "e3abbc14bcf69eea5106c41ae7c9da5d1e9784d295e7dd9ee8758f1c0cb8f779"
+  }
+}
